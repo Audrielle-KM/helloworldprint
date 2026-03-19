@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello World from Q5 branch!");
+		System.out.println("Hello World!!");
 	} // END main
 }
