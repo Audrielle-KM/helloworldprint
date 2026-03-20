@@ -1,9 +1,5 @@
 public class HelloWorld {
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		System.out.println("Hello World!!!");
-=======
-		System.out.println("Hello World!!");
->>>>>>> Q5
+		System.out.println("Hello World from main and Q5 branches!");
 	} // END main
 }
